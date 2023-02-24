@@ -1,5 +1,5 @@
 <!-- # <p align = "center" >Hi 👋, I'm Avie:cherry_blossom: </p> -->
-<p align = "center" ><img align="center"  src="#" /></p>
+<p align = "center" ><img align="center"  src="./twitter.jpg" /></p>
 
 <table>
 <tr>
