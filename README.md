@@ -1,4 +1,4 @@
-<p align = "center" ><img alt="Profile Banner" src="https://drive.google.com/file/d/17VTav0UWteF6LAbGmKkkgivK3vtyLaDP/view?usp=sharing">
+<p align = "center" ><img alt="Profile Banner" src="https://pbs.twimg.com/profile_banners/1471101853790138372/1673179083/1500x500"/>
 </p>
 
 <table>
