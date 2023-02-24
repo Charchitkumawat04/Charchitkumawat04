@@ -1,5 +1,5 @@
-<!-- # <p align = "center" >Hi 👋, I'm Avie:cherry_blossom: </p> -->
-<p align = "center" ><img align="center"  src="./twitter.jpg" /></p>
+<p align = "center" ><img alt="Profile Banner" src="https://drive.google.com/file/d/17VTav0UWteF6LAbGmKkkgivK3vtyLaDP/view?usp=sharing">
+</p>
 
 <table>
 <tr>
@@ -34,7 +34,8 @@ Tech Stack
           <li> OpenSource </li>
         </ul>
      </li>  
-   </ul> 
+   </ul>
+  <a href="https://twitter.com/intent/tweet?screen_name=Charchit_WEB3&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @Charchit_WEB3</a>
 </td>
 <td>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -51,24 +52,6 @@ Tech Stack
   </td>
 </tr>
 </table>
-
-<!---
-#### GitHub Stats 
-<hr/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=avie-dev&theme=onedark&title=MultiLanguage,Repositories,Commits,PullRequest,Followers)](https://github.com/avie-dev/avie-dev)
-
-<p>
-  <a href="https://github.com/avie-dev/avie-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=avie-dev&show_icons=true&theme=radical" /></a>
-  <a href="https://github.com/avie-dev/avie-dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avie-dev&layout=compact&theme=radical" /></a>
-</p>
-
-#### Twitter
-<hr/>
-<p align="left"> <a href="https://twitter.com/aviedev" target="blank"><img src="https://img.shields.io/twitter/follow/aviedev?logo=twitter&style=for-the-badge" alt="aviedev" /></a> </p> -->
-
-
-
 
 
 <!--
