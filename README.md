@@ -1,5 +1,5 @@
 <!-- # <p align = "center" >Hi 👋, I'm Avie:cherry_blossom: </p> -->
- <p align = "center" ><img align="center"  src="./twitter.png" /></p>
+<p align = "center" ><img align="center"  src="#" /></p>
 
 <table>
 <tr>
@@ -18,10 +18,11 @@ Tech Stack
      <li> An aspiring Frontend & Web-3 Developer
      <li> Currently Building a Nft Project</li>
      <li> SWOC -Accepted </li>
+     <li> Web3 Trailblazer Fellowship -Accepted </li>
      <li> Self-Learner</li>
      <li> Now studying:   
         <ul> 
-          <li> React </li>   
+          <li> React- Native </li>   
           <li> WEB-3 </li> 
         </ul>          
      </li>  
